@@ -19,5 +19,11 @@
   "bugs": {
     "url": "https://github.com/baolinDesign/wheel-1/issues"
   },
-  "homepage": "https://github.com/baolinDesign/wheel-1#readme"
+  "homepage": "https://github.com/baolinDesign/wheel-1#readme",
+  "dependencies": {
+    "vue": "^2.5.22"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.11.0"
+  }
 }
